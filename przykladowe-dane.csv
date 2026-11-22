@@ -1,0 +1,11 @@
+name,email,age,signup_date,amount
+Anna,anna@example.com,28,2026-01-12,120.50
+Jan,jan@example.com,34,2026-02-03,89.00
+Ola,ola@example.com,,2026-02-15,150.00
+Piotr,piotr@example.com,41,2026-03-01,210.00
+Ewa,ewa@example.com,29,2026-03-12,95.50
+Marek,marek@example.com,abc,2026-03-28,130.00
+Kasia,kasia@example.com,37,not-a-date,180.00
+Tomek,tomek@example.com,31,2026-04-10,
+Anna,anna@example.com,28,2026-01-12,120.50
+Zofia,zofia@example.com,250,2026-05-01,99999.00
